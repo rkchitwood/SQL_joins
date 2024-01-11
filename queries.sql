@@ -1,0 +1,1 @@
+SELECT * FROM owners FULL JOIN vehicles ON owners.id=vehicles.owner_id;
